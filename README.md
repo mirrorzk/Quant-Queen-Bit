@@ -15,7 +15,7 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 
 ## 1. Design & Usability
 
-![QQB Architecture](picture/Product Model.png)
+![Quant Queen Protocal Model](picture/Product Model.png)
 
 ### User Experience
 
