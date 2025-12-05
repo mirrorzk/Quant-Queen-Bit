@@ -10,11 +10,8 @@ QuantQueen Protocol is a crypto native token backed by NAV (Net Asset Value)  th
 This repo opens sources and maintains QQB’s core protocol contracts, NAVOracle interface specifications, risk disclosure standards, and integration tooling, helping ecosystem partners quickly implement issuance, trading, minting, burn, verification, data indexing, and secondary financial applications.
 
 
-## Contributors
+#### Contributors: Frank.Liu@Matrixport  | Alfred.Liu@Binance  | Mirror.Tang@ZEROBASE  
 
-Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE  
-
----
 
 ## 1. Design & Usability
 
@@ -52,7 +49,6 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 - **Tiered UX**  
   A simplified mode can target retail users, while institutional users can access more granular disclosures and APIs (delayed disclosure, interval-based views, proof summaries).
 
----
 
 ## 2. Scalability
 ![image](https://github.com/mirrorzk/Quant-Queen-Protocal/blob/master/picture/Risk%20Model.png)
@@ -75,10 +71,6 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 
 - **Factory-style strategy onboarding**  
   Build standardized modules for strategy admission, limit management, risk budget allocation, and automatic de-risking, so onboarding new strategies moves from manual workflows to a standardized framework.
-
-
-
----
 
 ## 3. Innovation
 
@@ -109,7 +101,6 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 - **Structured products**  
   Use QQB as the underlying NAV asset to build options, lending products, and structured derivatives, forming a broader product matrix.
 
----
 
 ## 4. Integration & Composability
 
@@ -136,8 +127,6 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
   Expand to additional chains under a unified NAV methodology and provide cross-chain wrappers and compliant liquidity migration solutions.
 
 
----
-
 ## 5. Roadmap
 
 ### Phase 1 – Infrastructure & Standards
@@ -163,5 +152,4 @@ Frank Liu @ Matrixport  | Alfred Liu @ Binance  | Mirror Tang @ ZEROBASE
 - Multichain expansion and enhanced composability
 - Proof-ready NAV (ZK, TEE, audit proof summaries)
 
----
 
